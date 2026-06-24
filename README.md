@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building my developer portfolio and improving my DSA skills<br>👯 I’m looking to collaborate on web development projects (HTML, CSS, JavaScript, Firebase)<br>🤝 I’m looking for help with open source contributions and backend development<br>🌱 I’m currently learning Data Structures & Algorithms and modern JavaScript<br>💬 Ask me about C++, Git, GitHub, and front-end development<br>⚡ Fun fact: I enjoy solving coding problems and sharing tech content online 🚀
+🔭 I’m currently working on building my developer portfolio and improving my DSA skills<br>👯 I’m looking to collaborate on web development projects (MERN stack)<br>🤝 I’m looking for help with open source contributions and backend development<br>🌱 I’m currently learning Data Structures & Algorithms and modern JavaScript<br>💬 Ask me about C++, Git, GitHub, and front-end development<br>⚡ Fun fact: I enjoy solving coding problems and sharing tech content online 🚀
 
 
 ## 🌐 Socials:
